@@ -8,7 +8,7 @@
 ### 🛠️ **Tech Stack & Tools**
 #### 📊 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4470A9?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### 🤖 **AI & ML**
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
