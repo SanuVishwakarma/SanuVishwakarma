@@ -44,7 +44,7 @@
 
 #### ⚡ **Development Tools**
 ![Jupyter](https://img.shields.io/badge/Jupyter-4479A1?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-3776AB?style=for-the-badge&logo=colab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-3776AB?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-F2C811?style=for-the-badge&logo=vscode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E97627?style=for-the-badge&logo=git&logoColor=white)
 
