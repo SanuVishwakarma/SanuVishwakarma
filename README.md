@@ -1,7 +1,7 @@
 
   <h1 align="center">Heyy wasupp👋 I'm Sanu Vishwakarma <width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;ML+Enthusiastic;AI+Entusiastic;Data+Scientist+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=337733&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;ML+Enthusiastic;AI+Entusiastic;Data+Scientist+from+India)](https://git.io/typing-svg)
 
 ---
 
