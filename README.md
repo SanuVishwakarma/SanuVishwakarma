@@ -62,6 +62,6 @@ Here are some ideas to get you started:
   <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"> <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" alt="express" width="44" height="44"/> </a>  
   <a href="https://www.jetbrains.com/pycharm/"> <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" alt="express" width="43" height="40" /> </a>
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" alt="express" width="43" height="40" /> </a>  
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://th.bing.com/th?id=OIP.gwQTXricDa5a7fYhnrF5vwHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="express" width="43" height="40" /> </a>  
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://th.bing.com/th?id=OIP.MK2ZEejrsNdwvevLknqi9AHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="express" width="43" height="40" /> </a>  
 </p>
 
