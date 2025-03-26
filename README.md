@@ -67,3 +67,8 @@ Here are some ideas to get you started:
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/I/41PFKRsyHbL.png" alt="mongo-db" width="48" height="48"/> </a> 
 </p>
 
+
+### 📊 **GitHub Stats**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanuVishwakarma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SanuVishwakarma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanuVishwakarma&theme=dark&hide_border=false)
