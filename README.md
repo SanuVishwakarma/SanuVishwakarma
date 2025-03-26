@@ -6,6 +6,12 @@
 ---
 
 ### 🛠️ **Tech Stack & Tools**
+#### 📊 **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-4479A1?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4479A1?style=for-the-badge&logo=javascript&logoColor=white)
+
 #### 📊 **Data Science & Analytics**
 ![NumPy](https://img.shields.io/badge/NumPy-3776AB?style=for-the-badge&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
