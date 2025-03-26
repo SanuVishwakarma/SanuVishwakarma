@@ -1,4 +1,3 @@
-## Hi there 
 
   <h1 align="center">Heyy wasupp👋 I'm Sanu Vishwakarma <width="30px"></h1>
 
@@ -65,6 +64,6 @@ Here are some ideas to get you started:
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://th.bing.com/th?id=OIP.MK2ZEejrsNdwvevLknqi9AHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="express" width="43" height="40" /> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db" width="48" height="44"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.kindpng.com/picc/m/27-272382_1300px-docker-container-engine-logo-docker-hub-hd.png" width="48" height="44"/> </a> 
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/I/41PFKRsyHbL.png" alt="mongo-db" width="48" height="44"/> </a> 
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/I/41PFKRsyHbL.png" alt="mongo-db" width="48" height="48"/> </a> 
 </p>
 
