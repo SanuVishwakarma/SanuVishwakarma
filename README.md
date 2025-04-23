@@ -40,11 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-E97627?style=for-the-badge&logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=fff)
 
-#### 🤖 **LLMs & Knowledge Systems**
-![Transformers](https://img.shields.io/badge/Transformers-E25A1C?style=for-the-badge&logo=transformers&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-66CCFF?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-E25A1C?style=for-the-badge&logo=rag&logoColor=white)
-![Spacy](https://img.shields.io/badge/Spacy-66CCFF?style=for-the-badge&logo=spacy&logoColor=white)
 
 #### 🌐 **Web Development & APIs**
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=fff)
@@ -57,6 +52,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-F2C811?style=for-the-badge&logo=postman&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
+
+#### 🤖 **LLMs & Knowledge Systems**
+![Transformers](https://img.shields.io/badge/Transformers-E25A1C?style=for-the-badge&logo=transformers&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-66CCFF?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-E25A1C?style=for-the-badge&logo=rag&logoColor=white)
+![Spacy](https://img.shields.io/badge/Spacy-66CCFF?style=for-the-badge&logo=spacy&logoColor=white)
 
 ---
 
